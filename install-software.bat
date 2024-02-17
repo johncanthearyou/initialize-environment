@@ -3,4 +3,4 @@ choco -? || (
     exit
 )
 
-choco install -y git python openjdk nodejs dotnet sqlite vscode virtualbox googlechrome googledrive podman-desktop docker-desktop etcher wsl2 spotify steam
+choco install -y git python openjdk nodejs dotnet sqlite vscode virtualbox googlechrome googledrive podman-cli podman-desktop docker-desktop etcher wsl2 spotify steam
